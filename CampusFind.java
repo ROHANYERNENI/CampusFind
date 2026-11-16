@@ -9,7 +9,6 @@ import java.util.*;
 import java.util.List;
 
 /*
- * CampusFind - beginner-friendly Java Swing prototype.
  * Compile: javac CampusFind.java
  * Run:     java CampusFind
  *
